@@ -1,0 +1,6 @@
+Thank you for using this program.
+
+Program has 3 different functions:
+	1. You can automatically generate truth tables by using:
+		logicsystems generateTable "(A o B) a C" <- insert your own expretion here.
+		
